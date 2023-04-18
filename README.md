@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amiraidid
 - 👀 I’m interested in ... Java, Python,etc.
-- 🌱 I’m currently learning ...java
+- 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... abdijabarahmed48@gmail.com
 
