@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdijabar
-- 👀 I’m interested in ...Python.
-- 🌱 I’m currently learning ...DevOps
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...web development.
+- 🌱 I’m currently learning ...React
+- 💞️ I’m looking to collaborate on ...front-end projects
 - 📫 How to reach me ... abdijabarahmed48@gmail.com
 
 <!---
