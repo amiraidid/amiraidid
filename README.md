@@ -2,7 +2,7 @@
 <!---
 - 👋 Hi, I’m @abdijabar
 - 👀 I’m interested in ...web development.
-- 🌱 I’m currently learning ...React
+- 🌱 I’m currently learning ...Remix js
 - 💞️ I’m looking to collaborate on ...front-end projects
 - 📫 How to reach me ... abdijabarahmed48@gmail.com
 amiraidid/amiraidid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
